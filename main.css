@@ -1,0 +1,7 @@
+table, th, td {
+    margin: auto;
+    border: 1px solid black
+}
+td.bl {
+    background: lightblue;
+}
